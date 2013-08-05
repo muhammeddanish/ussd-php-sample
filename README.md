@@ -11,10 +11,10 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;1. Free Food  
 &nbsp;&nbsp;&nbsp;&nbsp;2. Free Drink  
 &nbsp;&nbsp;&nbsp;&nbsp;3. Free Airtime  
-If the user selects option 1, goto STEP 2  
-If the user selects option 2, goto STEP 4  
-If the user selects option 3, goto STEP 6  
-If the selection is none of the above, goto STEP 9  
+If the user selects option 1, goto [STEP 2](#step-2)  
+If the user selects option 2, goto [STEP 4](#step-4)  
+If the user selects option 3, goto [STEP 6](#step-6)  
+If the selection is none of the above, goto [STEP 9](#step-9)  
 
 STEP 2:
 -------
