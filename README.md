@@ -22,9 +22,9 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free food?  
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
 &nbsp;&nbsp;&nbsp;&nbsp;2. No  
-If the user selects option 1, goto STEP 3  
-If the user selects option 2, goto STEP 8  
-If the selection is none of the above, goto STEP 9
+If the user selects option 1, goto [STEP 3](#step-3)  
+If the user selects option 2, goto [STEP 8](#step-8)  
+If the selection is none of the above, goto [STEP 9](#step-9)
 
 STEP 3:
 -------
@@ -37,9 +37,9 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free drink?  
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
 &nbsp;&nbsp;&nbsp;&nbsp;2. No  
-If the user selects option 1, goto STEP 5  
-If the user selects option 2, goto STEP 8  
-If the selection is none of the above, goto STEP 9  
+If the user selects option 1, goto [STEP 5](#step-5)  
+If the user selects option 2, goto [STEP 8](#step-8)  
+If the selection is none of the above, goto [STEP 9](#step-9)  
 
 STEP 5:
 -------
@@ -52,9 +52,9 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free airtime?  
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
 &nbsp;&nbsp;&nbsp;&nbsp;2. No  
-If the user selects option 1, goto STEP 7  
-If the user selects option 2, goto STEP 8  
-If the selection is none of the above, goto STEP 9
+If the user selects option 1, goto [STEP 7](#step-7)  
+If the user selects option 2, goto [STEP 8](#step-8)  
+If the selection is none of the above, goto [STEP 9](#step-9)
 
 STEP 7:
 -------

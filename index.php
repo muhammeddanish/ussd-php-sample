@@ -5,6 +5,9 @@ $ussdResponse = new stdclass;
 
 if ($ussdRequest != NULL)
 switch ($ussdRequest->Type) {
+	
+	// Initiation request. This is the first type of request every
+	// USSD application receives.
 	case 'Initiation':
 		$ussdResponse->Message =
 			"Welcome to Freebie Service.\n" .
