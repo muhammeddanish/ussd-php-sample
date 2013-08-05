@@ -1,4 +1,4 @@
 ussd-php-sample
 ===============
 
-A sample USSD PHP application
+A sample USSD PHP application.
